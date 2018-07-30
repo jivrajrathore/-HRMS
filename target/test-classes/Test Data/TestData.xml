@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Offender>
+	<casemanagerlogin>
+		<username>hampshire.casemanager</username>
+		<password>Pa$$w0rd@Hampshire</password>
+	</casemanagerlogin>
+	<psc_login>
+		<username>psc_administrator</username>
+		<password>Pa$$w0rd@PscAdmin</password>
+	</psc_login>
+	<Network_ADD>
+		<RelationshipType>Co-Defendant</RelationshipType>
+		<Title>Mrs</Title>
+		<FirstName>Samy</FirstName>
+		<OtherNames>Sam</OtherNames>
+		<FamilyName>Telford</FamilyName>
+		<PreviousSurname>Jones</PreviousSurname>
+		<RelationshipToOffender>Mother</RelationshipToOffender>
+		<Gender>Female</Gender>
+		<MobileNumber>07934343434</MobileNumber>
+		<InvalidMobileNumber>00000000000000</InvalidMobileNumber>
+		<EmailAddress>E2ESIT01@moj.com</EmailAddress>
+		<StartDate>22/04/2017</StartDate>
+		<InvalidStartDate>22/11/2017</InvalidStartDate>
+		<EndDate>28/04/2017</EndDate>
+		<InvalidEndDate>24/11/2017</InvalidEndDate>
+		<Notes>Contact added</Notes>
+		<BuildingName>BuildingTwo</BuildingName>
+		<HouseNumber>456</HouseNumber>
+		<StreetName>StreetTwo</StreetName>
+		<District>DistrictTwo</District>
+		<TownCity>TownTwo</TownCity>
+		<County>CountyTwo</County>
+		<Postcode>SI1 TEE</Postcode>
+		<TelephoneNumber>020734343434</TelephoneNumber>
+		<StartDate>22/04/2017</StartDate>
+		<InvalidStartDate>22/11/2017</InvalidStartDate>
+		<EndDate>28/04/2017</EndDate>
+		<InvalidEndDate>24/11/2017</InvalidEndDate>
+	</Network_ADD>
+	<Network_UPD>
+		<RelationshipType>Emergency Contact</RelationshipType>
+		<Title>Mr</Title>
+		<FirstName>Samuales</FirstName>
+		<OtherNames>Sam</OtherNames>
+		<FamilyName>Telford</FamilyName>
+		<PreviousSurname>Jones</PreviousSurname>
+		<RelationshipToOffender>Friend</RelationshipToOffender>
+		<Gender>Male</Gender>
+		<InvalidMobileNumber>00000000000000</InvalidMobileNumber>
+		<MobileNumber>07934343434</MobileNumber>
+		<EmailAddress>E2ESIT01@moj.com</EmailAddress>
+		<StartDate>22/04/2017</StartDate>
+		<InvalidStartDate>22/11/2017</InvalidStartDate>
+		<EndDate>28/04/2017</EndDate>
+		<InvalidEndDate>24/11/2017</InvalidEndDate>
+		<Notes>Contact updated</Notes>
+		<BuildingName>BuildingTwo</BuildingName>
+		<HouseNumber>456</HouseNumber>
+		<StreetName>StreetTwo</StreetName>
+		<District>DistrictTwo</District>
+		<TownCity>TownTwo</TownCity>
+		<County>CountyTwo</County>
+		<Postcode>SI1 TEE</Postcode>
+		<MobileNumber>07989898989</MobileNumber>
+		<InvalidMobileNumber>00000000000</InvalidMobileNumber>
+		<TelephoneNumber>020734343434</TelephoneNumber>
+		<InvalidTelephoneNumber>ghfdsh</InvalidTelephoneNumber>
+		<StartDate>22/04/2017</StartDate>
+		<InvalidStartDate>22/11/2017</InvalidStartDate>
+		<EndDate>22/05/2017</EndDate>
+		<InvalidEndDate>24/11/2017</InvalidEndDate>
+	</Network_UPD>
+	<Address_ADD>
+		<Status>Main</Status>
+		<BuildingName>BuildingFive</BuildingName>
+		<HouseNumber>1234</HouseNumber>
+		<StreetName>StreetOne</StreetName>
+		<District>DistrictOne</District>
+		<TownCity>TownOne</TownCity>
+		<County>CountyOne</County>
+		<Postcode>SI1 TEE</Postcode>
+		<TelephoneNumber>01234567890</TelephoneNumber>
+		<StartDate>22/04/2017</StartDate>
+		<InvalidStartDate>22/11/2017</InvalidStartDate>
+		<EndDate>28/04/2017</EndDate>
+		<InvalidEndDate>24/11/2017</InvalidEndDate>
+		<NoFixedAbode>N</NoFixedAbode>
+		<Notes>Address Record Added</Notes>
+	</Address_ADD>
+	<Address_UPD>
+		<Status>M</Status>
+		<BuildingName>BuildingFive</BuildingName>
+		<HouseNumber>1234</HouseNumber>
+		<StreetName>StreetOne</StreetName>
+		<District>DistrictOne</District>
+		<TownCity>TownOne</TownCity>
+		<County>CountyOne</County>
+		<Postcode>SI1 TEE</Postcode>
+		<TelephoneNumber>01234567890</TelephoneNumber>
+		<StartDate>22/04/2017</StartDate>
+		<InvalidStartDate>22/11/2017</InvalidStartDate>
+		<EndDate>28/04/2017</EndDate>
+		<InvalidEndDate>24/11/2017</InvalidEndDate>
+		<NoFixedAbode>N</NoFixedAbode>
+		<Notes>Address Record Updated</Notes>
+	</Address_UPD>
+	<Accessibility_ADD>
+		<StartDate>22/04/2017</StartDate>
+		<InvalidStartDate>22/11/2017</InvalidStartDate>
+		<EndDate>28/04/2017</EndDate>
+		<InvalidEndDate>24/11/2017</InvalidEndDate>
+		<Accessibility_Type>Dyslexia</Accessibility_Type>
+		<Notes>Accessibility note Added</Notes>
+	</Accessibility_ADD>
+	<Accessibility_UPD>
+		<StartDate>22/04/2017</StartDate>
+		<InvalidStartDate>22/11/2017</InvalidStartDate>
+		<EndDate>28/04/2017</EndDate>
+		<InvalidEndDate>24/11/2017</InvalidEndDate>
+		<Accessibility_Type>Dyslexia</Accessibility_Type>
+		<Notes>Accessibility note Updated</Notes>
+	</Accessibility_UPD>
+	<Provision_ADD>
+		<StartDate>22/04/2017</StartDate>
+		<InvalidStartDate>22/11/2017</InvalidStartDate>
+		<EndDate>28/04/2017</EndDate>
+		<InvalidEndDate>24/11/2017</InvalidEndDate>
+		<Adjustment>Computer Software</Adjustment>
+		<Notes>Adjustment note Added</Notes>
+	</Provision_ADD>
+	<Provision_UPD>
+		<StartDate>22/04/2017</StartDate>
+		<InvalidStartDate>22/11/2017</InvalidStartDate>
+		<EndDate>28/04/2017</EndDate>
+		<InvalidEndDate>24/11/2017</InvalidEndDate>
+		<Notes>Adjustment note Updated</Notes>
+	</Provision_UPD>
+	<InductionLetter>
+		<DateOfAppt>9/05/2017</DateOfAppt>
+		<Location>London</Location>
+		<Notes>note added for induction letter</Notes>
+	</InductionLetter>
+	<ProtectedCharacteristics_UPD>
+		<ethnicity>Asian or Asian British: Bangladeshi</ethnicity>
+		<nationality>American</nationality>
+		<second_nationality>American Samoan</second_nationality>
+		<perfered_language>Bengali</perfered_language>
+		<interpreter_required>No</interpreter_required>
+		<immigration_status>UK National</immigration_status>
+		<immigration_number>12345</immigration_number>
+		<religion_belief>Christadelphian</religion_belief>
+	</ProtectedCharacteristics_UPD>
+	
+	<Referral_ADD>	
+	<referralType>Basic Skills</referralType>
+	<referralDate>09/02/2016</referralDate>
+	<referralOutcome>Assessed</referralOutcome>
+	<referralSource>Court</referralSource>
+	<notes>Automation notes</notes>
+  </Referral_ADD>
+  
+  <Referral_InvalidEDIT>
+  <referralType>- Select -</referralType>
+	<referralOutcome>- Select -</referralOutcome>
+	<referralSource>- Select -</referralSource>
+
+  </Referral_InvalidEDIT>
+  
+  	<Assessment_ADD>	
+	<assessmentType>Basic Skills</assessmentType>
+	<assessmentDate>09/02/2016</assessmentDate>
+	<assessmentOutcome>Assessed</assessmentOutcome>
+	<assessmentSource>Court</assessmentSource>
+	<SURequiredToattend>Yes</SURequiredToattend>
+	<SUAttended>No</SUAttended>
+	<notes>Automation notes</notes>
+  </Assessment_ADD>
+  
+     <Assessment_EDIT>	
+	<assessmentOutcome>Assessment Not Completed</assessmentOutcome>
+	<notes>Assessment updated</notes>
+  </Assessment_EDIT>
+  
+  <Assessment_InvalidEDIT>	
+	<assessmentOutcome>- Select -</assessmentOutcome>
+  </Assessment_InvalidEDIT>
+  
+<!--For UPW project Details  -->
+  <UPWProject>
+	<UPWProject_ProjectDetails_ADD>
+		 <Project_Status>Active</Project_Status>
+		 <Project_Code>InternalProjectCodeForUPWprojecTest</Project_Code>
+		 <Team>Merseyside CRC</Team>
+		 <Project_Name>MeganexusTestingTeamForUnitedKingdm</Project_Name>
+		 <Office_Team>Flex Team 2</Office_Team>
+		 <High_Visibility>No</High_Visibility>
+		 <Project_Type>ETE (Agency)</Project_Type>
+		 <Start_Date>06/06/2017</Start_Date>
+		 <End_Date>06/06/2018</End_Date>
+	</UPWProject_ProjectDetails_ADD>
+	<UPWProject_ProviderDetails_ADD>
+		 <Provider>ProviderMeganexus</Provider>
+		 <Street_Name>LaneFiveAndElevenForTesting</Street_Name>
+		 <Telephone_Number>07 2233445566</Telephone_Number>
+		 <Town_City>london/pune</Town_City>
+		 <Building_Name>Pentagon</Building_Name>
+		 <Building_Number>404</Building_Number>
+		 <County>INDIA</County>
+		 <Postcode>NW1 2SD</Postcode>
+	</UPWProject_ProviderDetails_ADD>
+	<UPWProject_BeneficiaryDetails_ADD>
+		  <Beneficiary_Name>InterserveBeneficiaryDetails</Beneficiary_Name>
+		  <Street_Name>LaneFiveAndSevenForTesting</Street_Name>
+		  <Telephone_Number>07 998877445566</Telephone_Number>
+		  <Town_City>London/pune</Town_City>
+		  <Building_Name>NewPentagon</Building_Name>
+		  <County>INDIA</County>
+		  <Building_Number>405</Building_Number>
+		  <Postcode>NW1 2SD</Postcode>
+	</UPWProject_BeneficiaryDetails_ADD>
+	<UPWProject_PlacementDetails_ADD>
+		  <Placement_Name>PurpleFuturePlacementDetails</Placement_Name>
+		  <Street_Name>FifthLane</Street_Name>
+		  <Telephone_Number>07 12121212</Telephone_Number>
+		  <Town_City>London/pune</Town_City>
+		  <Building_Name>CibercityTower45</Building_Name>
+		  <County>INDIA</County>
+		  <Building_Number>406</Building_Number>
+		  <Postcode>NW1 2SD</Postcode>
+		  <Placement_Notes>Placement Added for UPW</Placement_Notes>
+	</UPWProject_PlacementDetails_ADD>
+	<UPWProject_ProjectAvailabilityInformation_ADD>
+		 <Date_Requested>06/06/2017</Date_Requested>
+		 <Date_Job_Evaluted>06/06/2017</Date_Job_Evaluted>
+		 <Planned_Start_Date>06/06/2017</Planned_Start_Date>
+		 <Minimum_Age>18</Minimum_Age>
+		 <Maximum_Age>60</Maximum_Age>
+		 <Minimum_No_In_Group>1</Minimum_No_In_Group>
+		 <Maximum_No_In_Group>5</Maximum_No_In_Group>
+		 <Gender_Suitability>Both</Gender_Suitability>
+		 <Visibile_To_Public>Yes</Visibile_To_Public>
+		 <Project_Not_Suitable_For_Notes>Old people and kids</Project_Not_Suitable_For_Notes>
+		 <Date_ProjectAvailability>Friday</Date_ProjectAvailability>
+		 <Start_ProjectAvailability>15:30</Start_ProjectAvailability>
+		 <End_ProjectAvailability>17:00</End_ProjectAvailability>
+	</UPWProject_ProjectAvailabilityInformation_ADD>
+	<UPWProject_NatureOfWorkQualification_ADD>
+		 <Nature_Of_Work>Cleaning / Maintenance</Nature_Of_Work>
+		 <Qualification_Opportunities>Skills for Life / Basic Skills</Qualification_Opportunities>
+		 <Nature_Of_Work_Notes>Any one can work</Nature_Of_Work_Notes>
+	</UPWProject_NatureOfWorkQualification_ADD>
+			<UPWProject_ProjectDetails_EDIT>
+					 <High_Visibility>Yes</High_Visibility>
+					 <End_Date>06/06/2019</End_Date>
+			</UPWProject_ProjectDetails_EDIT>
+			<UPWProject_ProviderDetails_EDIT>
+				 <Provider>ProviderMeganexus</Provider>
+				 <Street_Name>LaneFiveAndEleven</Street_Name>
+				 <Telephone_Number>011 2233445566</Telephone_Number>
+				 <Town_City>pune</Town_City>
+			</UPWProject_ProviderDetails_EDIT>
+			<UPWProject_PlacementDetails_EDIT>
+				  <Placement_Name>PurpleFuture</Placement_Name>
+				  <Telephone_Number>011 12121212</Telephone_Number>
+				  <Town_City>London/pune</Town_City>
+				  <Placement_Notes>Notes 2 Placement</Placement_Notes>
+			</UPWProject_PlacementDetails_EDIT>
+			<UPWProject_ProjectAvailabilityInformation_EDIT>
+				 <Gender_Suitability>Male Only</Gender_Suitability>
+				 <Visibile_To_Public>Yes</Visibile_To_Public>
+				 <Project_Not_Suitable_For_Notes>Notes 2 added for update</Project_Not_Suitable_For_Notes>
+			</UPWProject_ProjectAvailabilityInformation_EDIT>
+			<UPWProject_NatureOfWorkQualification_EDIT>
+				<Nature_Of_Work_Notes>Notes added for update nature of work</Nature_Of_Work_Notes>
+			</UPWProject_NatureOfWorkQualification_EDIT>
+</UPWProject> 
+</Offender>
